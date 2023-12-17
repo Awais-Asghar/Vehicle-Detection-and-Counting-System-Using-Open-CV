@@ -22,8 +22,8 @@ pip install opencv-python pyttsx3 numpy art textblob
 
 ### Download YOLOv4 Weights
 
-Download the YOLOv4 weights fils and link and give the address of that files in object_detection.
-
+Download the YOLOv4 weights fils below the provided link and give the address of that files in object_detection.
+https://github.com/AlexeyAB/darknet
 Place the weights and cfg files in the object_detection directory .
 
 ## Usage
