@@ -60,3 +60,6 @@ Place the weights and cfg files in the object_detection directory .
   - Customize the object detection logic in the `ObjectDetection` module based on specific project requirements.
 
 Feel free to adapt the README according to your project's structure and additional configuration options.
+
+##Output:
+![2](https://github.com/Awais-Asghar/Vehicle-Detection-and-Counting-System-Using-Open-CV/assets/136043829/31e56d19-6a15-4207-96b9-1a4c20aed75d)
