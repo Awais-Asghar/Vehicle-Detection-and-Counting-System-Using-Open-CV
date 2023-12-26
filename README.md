@@ -17,7 +17,12 @@ Make sure you have Python installed. You can download it from [python.org](https
 ### Install Required Libraries
 
 ```bash
-pip install opencv-python pyttsx3 numpy art textblob
+pip install opencv-python
+pip install numpy
+pip install art
+pip install pyttsx3
+pip install textblob
+pip install colorama
 ```
 
 ### Download YOLOv4 Weights
@@ -59,7 +64,11 @@ Place the weights and cfg files in the object_detection directory .
 - **Object Detection Module:**
   - Customize the object detection logic in the `ObjectDetection` module based on specific project requirements.
 
-Feel free to adapt the README according to your project's structure and additional configuration options.
+## Image Processing:
 
-##Output:
-![2](https://github.com/Awais-Asghar/Vehicle-Detection-and-Counting-System-Using-Open-CV/assets/136043829/31e56d19-6a15-4207-96b9-1a4c20aed75d)
+![2](https://github.com/Awais-Asghar/Vehicle-Detection-and-Counting-System-Using-Open-CV/assets/136043829/456f3e59-f318-4057-b5de-7c5bade443c2)
+
+
+## Video Processing:
+
+![3](https://github.com/Awais-Asghar/Vehicle-Detection-and-Counting-System-Using-Open-CV/assets/136043829/f1a406c6-d371-4a94-bbdb-0c91c6d5aee9)
