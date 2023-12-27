@@ -10,6 +10,8 @@ This Python script is designed for real-time vehicle detection and counting usin
 
 ## Installation
 
+You have to download the python version of the 3.11.4.
+
 ### Prerequisites
 
 Make sure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
