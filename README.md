@@ -63,7 +63,8 @@ Firstly you to download the libraries by using the above commands and then you h
 When you will run the code then you have to answer some questions. When program ask for image processing then you have to put the name of that file only e.g 1
 It depens on your image name and extension of image should be .png. For video processing repeat the same process and extension of video file should be .mp4
 
-![2](https://github.com/Awais-Asghar/Vehicle-Detection-and-Counting-System-Using-Open-CV/assets/136043829/456f3e59-f318-4057-b5de-7c5bade443c2)
+![1](https://github.com/Awais-Asghar/Vehicle-Detection-and-Counting-System-Using-Open-CV/assets/136043829/4e577579-220f-4c5d-a764-463ab9779ffb)
+
 
 
 ## Video Processing:
