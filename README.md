@@ -65,6 +65,7 @@ It depens on your image name and extension of image should be .png. For video pr
 It can detect cars in smog also.
 ![1](https://github.com/Awais-Asghar/Vehicle-Detection-and-Counting-System-Using-Open-CV/assets/136043829/4e577579-220f-4c5d-a764-463ab9779ffb)
 
+![2](https://github.com/Awais-Asghar/Vehicle-Detection-and-Counting-System-Using-Open-CV/assets/136043829/f269e931-241b-45a4-9dcb-0a06ee40e750)
 
 
 ## Video Processing:
