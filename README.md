@@ -7,7 +7,7 @@
 ![IDE](https://img.shields.io/badge/IDE-VS%20Code-blueviolet.svg)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/097eb93d-4890-40b6-ad57-0c7933f97f28" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/103e5c2b-0e59-4702-9802-44d87e662c03" />
 
 ## Introduction
 
@@ -54,6 +54,10 @@ Python is the preferred language for computer vision applications due to:
 
 ---
 
+## Alogorthim:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b273058d-a35c-49e6-852e-4d78a22ff202" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2d16ccdd-a035-438d-8a57-621ba6a13115" />
+
 ##  Libraries Used
 
 | Library       | Purpose |
@@ -64,6 +68,18 @@ Python is the preferred language for computer vision applications due to:
 | `pyttsx3`      | Text-to-speech output for vehicle counts |
 | `art`          | Generates ASCII art title screen for CLI |
 | `textblob`     | Optional NLP tasks like text analysis |
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9245f459-5dae-453e-8860-adfd99dcc396" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ccf03bbb-e74c-4a27-a727-ecdf2caada1d" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1194e042-c7a4-4cb9-a12f-048b505d9a19" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/943fef7e-5f3b-441d-92ce-dc3db2e433ce" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f5a01232-bf8b-45e0-a859-7796cd11fea3" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ae5c1ad8-7755-4922-b0bb-aeb8d5b7e435" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dfe72a2a-058a-4e82-bbef-b14e53c3afce" />
+
+## Flow Chart
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c15f8264-cbc5-4038-921a-f6bb1044101b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4c708657-18ce-4fd4-93e8-e33ed0b47e49" />
 
 ## Installation
 
@@ -92,6 +108,9 @@ Download the YOLOv4 weights files and give the address of that files in object_d
 Place the weights and cfg files in the object_detection directory .
 
 ## Usage
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1e275917-ac67-4421-b299-0a3d6557548f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/238b70ec-e668-4a87-915b-23d1c4bcb269" />
 
 1. Open the script in a code editor.
 
@@ -137,7 +156,7 @@ It can detect and count cars at night also.
 
 ![3](https://github.com/Awais-Asghar/Vehicle-Detection-and-Counting-System-Using-Open-CV/assets/136043829/f1a406c6-d371-4a94-bbdb-0c91c6d5aee9)
 
+## Conclusion
+The Vehicle Detection and Counting System provides a reliable, real-time solution for identifying and tracking vehicles using Python, OpenCV, and YOLOv4. It automates traffic monitoring with accurate detection and voice-based interaction, making it suitable for smart city and surveillance applications. This project lays the groundwork for future enhancements in intelligent transportation systems.
 
-### Main.exe
-You can download the main.exe file from one drive
-  https://drive.google.com/file/d/1TI8mxt4K1U2ikKh_PYyNcLXpf9D88KCJ/view?usp=sharing
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/439dd0c6-4d62-4ad0-a437-274a331f4935" />
